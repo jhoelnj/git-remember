@@ -1,0 +1,3 @@
+#Enviar cambios a GitHub
+git push origin main    
+(enviar con token, si no me lo permite revisa o actualiza el token)
