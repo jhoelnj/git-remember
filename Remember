@@ -3,3 +3,5 @@ git push origin main
 (enviar con token, si no me lo permite revisa o actualiza el token)
 
 git clone " HTTPS " (HTTPS es el enlace para clonar el repositorio)
+
+git push --force origin main (forzar subida de cambios)
